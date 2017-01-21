@@ -13,6 +13,7 @@ classification.x takes the name of image as argument to classify.
 > ./classification.x ./samples/img_1_2.png
 
 This code is based on information from the following links
+
 [Deploy Trained Network](https://github.com/BVLC/caffe/wiki/Using-a-Trained-Network:-Deploy)
 
 [Cpp Classification](https://github.com/BVLC/caffe/tree/master/examples/cpp_classification)
