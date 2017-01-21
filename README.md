@@ -14,6 +14,7 @@ classification.x takes the name of image as argument to classify.
 
 This code is based on information from the following links
 [Deploy Trained Network](https://github.com/BVLC/caffe/wiki/Using-a-Trained-Network:-Deploy)
+
 [Cpp Classification](https://github.com/BVLC/caffe/tree/master/examples/cpp_classification)
 
 The output should look like this:
